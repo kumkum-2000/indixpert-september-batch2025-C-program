@@ -8,6 +8,7 @@ int add(int k,int s)
 int sub(int k,int s)
 {
     printf("sub:%d",k-s);
+
 }
 int multiply(int k,int s)
 {
