@@ -14,9 +14,10 @@ int countvowels(char name[50])
     }
     return count;
 }
+ 
 
 int main()
-{
+{ 
 
     int num=0;
     char name[50];
